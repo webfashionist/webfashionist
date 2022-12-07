@@ -21,6 +21,6 @@
 <hr>
 
 <p align="center">
-    <img align="left" alt="Bob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webfashionist&count_private=true&&show_icons=true&theme=dracula&hide_border=true" />
-    <img align="right" alt="Bob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webfashionist&layout=compact&theme=dracula&count_private=true&hide_border=true" />
+    <img alt="Bob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webfashionist&count_private=true&&show_icons=true&theme=dracula&hide_border=true" />
+    <img alt="Bob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webfashionist&layout=compact&theme=dracula&count_private=true&hide_border=true" />
 </p>
