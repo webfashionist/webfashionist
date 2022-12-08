@@ -1,6 +1,6 @@
 <h3 align="center">Hi! I'm Bob 👋</h3>
 
-💻 I'm a freelance web developer who loves to create individual and custom projects built from scratch. Which is why I developed my own CMS using my own open-source WYISYWG editor named <a href="https://github.com/webfashionist/RichText" target="_blank">RichText</a>.
+💻 I'm a freelance web developer who loves to create individual and custom projects built from scratch. Which is why I developed my own CMS using my own open-source WYSIWYG editor named <a href="https://github.com/webfashionist/RichText" target="_blank">RichText</a>.
 
 🧑‍🤝‍🧑 Managing a neurodiverse Discord community is part of my free-time where I'm not only developing the custom bots, but also managing the team, community and events.
 
