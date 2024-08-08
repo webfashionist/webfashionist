@@ -7,6 +7,7 @@
 <hr>
 
 - Freelance Web Developer
+- Employed Website Manager
 - Discord Bot Developer
 - Bachelor of Science (Hons.) in Webdesign & Development
 - (Volunteer) Community Manager (on Discord)
